@@ -1,0 +1,168 @@
+
+// Intital friends folder and structure
+var friends = [
+  {
+      "name":"Star War",
+      "photo":"http://www.majorgeeks.com/news/file/2728_search.jpg",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Avator",
+  "photo":"http://images2.fanpop.com/image/photos/12100000/Random-stuff-random-12111061-1280-1024.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Angel",
+  "photo":"http://images2.fanpop.com/images/photos/5700000/Random-random-5719751-1280-800.jpg",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Angry Bird",
+  "photo":"http://images5.fanpop.com/image/photos/30600000/random-random-30603148-640-500.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Duck",
+  "photo":"http://images2.fanpop.com/image/photos/10800000/FUNNY-random-10896010-553-454.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Cheater",
+  "photo":"http://images5.fanpop.com/image/photos/31300000/Random-Funny-Images-random-31335665-429-480.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"I can't hear you",
+  "photo":"http://images1.fanpop.com/images/image_uploads/Funny-Things-random-967932_367_479.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Robot",
+  "photo":"http://images2.fanpop.com/images/photos/5900000/Randomness-random-5997130-1280-800.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"License",
+  "photo":"http://images5.fanpop.com/image/photos/30600000/funny-random-30652776-492-500.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Ken",
+  "photo":"http://images2.fanpop.com/images/photos/6000000/Random-random-6054526-1280-1024.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+
+module.exports = friends;
+
+
